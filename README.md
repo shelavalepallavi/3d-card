@@ -46,10 +46,19 @@ A sleek 3D card component built with **HTML** and **CSS**.
 
 ---
 
-## 🔧 Usage
+## 🔧 How to Use
 
-### ✨ HTML (`index.html`)
+1. Clone this repository:
+   ```
+   git clone https://github.com/shelavalepallavi/3d-card.git
 
-Link the CSS file in the `<head>` and use this markup:
+Navigate into the project directory:
+```
+cd 3d-card
+```
 
-```html
+Open index.html in your browser:
+
+```
+open index.html
+```
