@@ -7,6 +7,10 @@ A sleek 3D card component built with **HTML** and **CSS**.
 
 ---
 
+## 📸 Dashboard Screenshot
+
+![Dashboard Preview](dashboard.png)
+
 📂 File Structure
 
 ```
