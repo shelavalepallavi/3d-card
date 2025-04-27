@@ -14,7 +14,7 @@ A sleek 3D card component built with **HTML** and **CSS**.
 📂 File Structure
 
 ```
-3d-card-hover-effect/
+3d-card/
 ├── index.html         # Card layout
 ├── style.css          # CSS for styling and transitions
 ├── dashboard.png         
